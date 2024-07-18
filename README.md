@@ -1,6 +1,6 @@
-# Welcome to Rahaan System 🌐
+# Welcome to Rahan System 🌐
 
-**Rahaan System** is a forward-thinking team of dedicated professionals specializing in innovative digital solutions. 
+**Rahan System** is a forward-thinking team of dedicated professionals specializing in innovative digital solutions. 
 
 🚀 We excel in:
 - **Web Development**
@@ -11,4 +11,4 @@
 
 ✨ **Join us on GitHub** to explore our projects and see how we can help your business succeed.
 
-🔗 [Visit our website](https://www.rahaansystem.ir)
+🔗 [Visit our website](https://www.rahansystem.ir)
